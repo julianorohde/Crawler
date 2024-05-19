@@ -9,6 +9,7 @@ Desenvolvido por [Juliano Rohde](https://github.com/julianorohde).
 
 * Ruby 3.2.2 e Rails 7.1.2;
 * Clonar o repositório: https://github.com/julianorohde/hands-on-segfy;
+* Rodar `bundle install` para instalar as Gems e dependências;
 * Criar o banco de dados de testes (`rails db:create`), caso queira rodar os testes desenvolvidos utilizando RSpec.
 
 ## Como utilizar o Crawler
