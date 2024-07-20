@@ -8,7 +8,7 @@ Desenvolvido por [Juliano Rohde](https://github.com/julianorohde).
 ## Requisitos
 
 * Ruby 3.2.2 e Rails 7.1.2;
-* Clonar o repositório: https://github.com/julianorohde/hands-on-segfy;
+* Clonar o repositório: [https://github.com/julianorohde/hands-on-segfy](https://github.com/julianorohde/Crawler);
 * Rodar `bundle install` para instalar as Gems e dependências;
 * Criar o banco de dados de testes (`rails db:create`), caso queira rodar os testes desenvolvidos utilizando RSpec.
 
