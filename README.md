@@ -1,4 +1,4 @@
-# HANDS-ON [SEGFY]
+# WEB CRAWLER
 ## Informações gerais
 
 A seguinte API é responsável por realizar a busca de veículos no site Napista utilizando a Gem Mechanize!
